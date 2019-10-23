@@ -1,6 +1,6 @@
 ![][logo]
 
-[logo]: TKA.jpg "Logo text"
+[logo]: logo.jpg "idnapper arguments"
 
 # Kidnapper arguments
 The application displays the arguments passed to it
